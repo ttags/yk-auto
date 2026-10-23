@@ -1,0 +1,132 @@
+[
+  {
+    "id": "cricket::lesotho-zambia::2026-10-23T09:00:00.000Z",
+    "league": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+    "home_team": "Zambia",
+    "home_flag": "https://flagcdn.com/w160/zm.png",
+    "away_team": "Lesotho",
+    "away_flag": "https://flagcdn.com/w160/ls.png",
+    "start_time": "2026-10-23T14:45:00+05:45",
+    "end_time": "2026-10-23T18:45:00+05:45"
+  },
+  {
+    "id": "cricket::mozambique-nigeria::2026-10-23T09:00:00.000Z",
+    "league": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+    "home_team": "Nigeria",
+    "home_flag": "https://flagcdn.com/w160/ng.png",
+    "away_team": "Mozambique",
+    "away_flag": "https://flagcdn.com/w160/mz.png",
+    "start_time": "2026-10-23T14:45:00+05:45",
+    "end_time": "2026-10-23T18:45:00+05:45"
+  },
+  {
+    "id": "cricket::gambia-uganda::2026-10-23T13:00:00.000Z",
+    "league": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+    "home_team": "Gambia",
+    "home_flag": "https://flagcdn.com/w160/gm.png",
+    "away_team": "Uganda",
+    "away_flag": "https://flagcdn.com/w160/ug.png",
+    "start_time": "2026-10-23T18:45:00+05:45",
+    "end_time": "2026-10-23T22:45:00+05:45"
+  },
+  {
+    "id": "football::al-faisaly-al-nassr-fc::2026-10-23T13:30:00.000Z",
+    "league": "Saudi Pro League",
+    "home_team": "Al-Faisaly",
+    "home_flag": "https://img.singhs.com.np/team/205687.png",
+    "away_team": "Al Nassr FC",
+    "away_flag": "https://img.singhs.com.np/team/101918.png",
+    "start_time": "2026-10-23T19:15:00+05:45",
+    "end_time": "2026-10-23T21:27:00+05:45"
+  },
+  {
+    "id": "cricket::formula-f1-formula-f1::2026-10-23T17:30:00.000Z",
+    "league": "US Grand Prix - Practice 1",
+    "home_team": "Formula F1",
+    "home_flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+    "away_team": "Formula F1",
+    "away_flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+    "start_time": "2026-10-23T23:15:00+05:45",
+    "end_time": "2026-10-24T00:15:00+05:45"
+  },
+  {
+    "id": "football::borussia-m-gladbach-stuttgart::2026-10-23T18:30:00.000Z",
+    "league": "Bundesliga",
+    "home_team": "Stuttgart",
+    "home_flag": "https://assets.footylogos.com/logos/vfb-stuttgart/vfb-stuttgart-logo-footylogos.svg",
+    "away_team": "Borussia M'gladbach",
+    "away_flag": "https://assets.footylogos.com/logos/borussia-monchengladbach/borussia-monchengladbach-logo-footylogos.svg",
+    "start_time": "2026-10-24T00:15:00+05:45",
+    "end_time": "2026-10-24T02:15:00+05:45"
+  },
+  {
+    "id": "football::ipswich-town-nottingham-forest::2026-10-23T19:00:00.000Z",
+    "league": "Premier League",
+    "home_team": "Ipswich Town",
+    "home_flag": "https://assets.footylogos.com/logos/ipswich-town/ipswich-town-logo-footylogos.svg",
+    "away_team": "Nottingham Forest",
+    "away_flag": "https://assets.footylogos.com/logos/nottingham-forest/nottingham-forest-logo-footylogos.svg",
+    "start_time": "2026-10-24T00:45:00+05:45",
+    "end_time": "2026-10-24T02:45:00+05:45"
+  },
+  {
+    "id": "cricket::india-new-zealand::2026-10-24T07:00:00.000Z",
+    "league": "India in New Zealand, 5 T20I Series, 2026",
+    "home_team": "New Zealand",
+    "home_flag": "https://aimages.willow.tv/teamLogos/newzealand.png",
+    "away_team": "India",
+    "away_flag": "https://aimages.willow.tv/teamLogos/india.png",
+    "start_time": "2026-10-24T12:45:00+05:45",
+    "end_time": "2026-10-24T17:45:00+05:45"
+  },
+  {
+    "id": "cricket::ireland-namibia::2026-10-24T08:00:00.000Z",
+    "league": "Ireland in Namibia, 5 ODI Series, 2026",
+    "home_team": "Namibia",
+    "home_flag": "https://aimages.willow.tv/teamLogos/namibia.png",
+    "away_team": "Ireland",
+    "away_flag": "https://aimages.willow.tv/teamLogos/ireland.png",
+    "start_time": "2026-10-24T13:45:00+05:45",
+    "end_time": "2026-10-24T21:45:00+05:45"
+  },
+  {
+    "id": "football::aston-villa-man-city::2026-10-24T11:30:00.000Z",
+    "league": "Premier League",
+    "home_team": "Aston Villa",
+    "home_flag": "https://img.singhs.com.np/team/10252.png",
+    "away_team": "Man City",
+    "away_flag": "https://img.singhs.com.np/team/8456.png",
+    "start_time": "2026-10-24T17:15:00+05:45",
+    "end_time": "2026-10-24T19:27:00+05:45"
+  },
+  {
+    "id": "football::arsenal-everton::2026-10-24T14:00:00.000Z",
+    "league": "Premier League",
+    "home_team": "Arsenal",
+    "home_flag": "https://img.singhs.com.np/team/9825.png",
+    "away_team": "Everton",
+    "away_flag": "https://img.singhs.com.np/team/8668.png",
+    "start_time": "2026-10-24T19:45:00+05:45",
+    "end_time": "2026-10-24T21:57:00+05:45"
+  },
+  {
+    "id": "football::watford-wolves::2026-10-24T14:00:00.000Z",
+    "league": "Championship",
+    "home_team": "Wolves",
+    "home_flag": "https://img.singhs.com.np/team/8602.png",
+    "away_team": "Watford",
+    "away_flag": "https://img.singhs.com.np/team/9817.png",
+    "start_time": "2026-10-24T19:45:00+05:45",
+    "end_time": "2026-10-24T21:57:00+05:45"
+  },
+  {
+    "id": "cricket::england-pakistan::2026-10-25T08:00:00.000Z",
+    "league": "ODI Tri-Series in Pakistan, 2026",
+    "home_team": "Pakistan",
+    "home_flag": "https://aimages.willow.tv/teamLogos/pakistan.png",
+    "away_team": "England",
+    "away_flag": "https://aimages.willow.tv/teamLogos/england.png",
+    "start_time": "2026-10-25T13:45:00+05:45",
+    "end_time": "2026-10-25T21:45:00+05:45"
+  }
+]
