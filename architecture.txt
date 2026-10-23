@@ -1,0 +1,7 @@
+apiauto.json - plain match data. 
+
+manifestauto.json includes the todays current match window links in encrypted form. 
+
+Single Pillar Content.
+
+Time gating logic applies here too. 
