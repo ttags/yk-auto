@@ -1,1 +1,9 @@
-
+{
+  "cricket::india-new-zealand::2026-10-24T07:00:00.000Z": [
+    { "name": "Server 1", "url": "https://www.yonotvs.com/p/author.html", "type": "hls" },
+    { "name": "English",  "url": "https://www.yonotvs.com/p/author.html", "type": "embed" }
+  ],
+  "football::ajax-atalanta::2026-10-22T19:00:00.000Z": [
+    { "name": "Server 1", "url": "https://…/hd10.php", "type": "embed" }
+  ]
+}
