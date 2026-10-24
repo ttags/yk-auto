@@ -1,9 +1,109 @@
 {
   "cricket::india-new-zealand::2026-10-24T07:00:00.000Z": [
-    { "name": "Server 1", "url": "https://www.yonotvs.com/p/author.html", "type": "hls" },
-    { "name": "English",  "url": "https://www.yonotvs.com/p/author.html", "type": "embed" }
-  ],
-  "football::ajax-atalanta::2026-10-22T19:00:00.000Z": [
-    { "name": "Server 1", "url": "https://…/hd10.php", "type": "embed" }
+    {
+      "name": "TNT 3",
+      "url": "https://stream-relay-buddy.lovable.app/api/public/proxy?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+      "type": "mpd"
+    },
+    {
+      "name": "Willow HD",
+      "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd",
+      "type": "mpd"
+    },
+    {
+      "name": "Willow 2",
+      "url": "https://trend48.st/live-tv?ch=willow-usa",
+      "type": "iframe"
+    },
+    {
+      "name": "Cricbuzz",
+      "url": "https://1freecdn.xyz/hembedplayer/csstream1/1/960/540",
+      "type": "iframe"
+    },
+    {
+      "name": "Hindi",
+      "url": "https://live.vkvideo.ru/app/embed/dtvhindi",
+      "type": "iframe"
+    },
+    {
+      "name": "Smooth",
+      "url": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/live-hls/fa3e-4ses/chunklist_i1_DVR.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "TNT HD 2",
+      "url": "https://trend48.st/live-tv?ch=tntsports1-uk",
+      "type": "iframe"
+    },
+    {
+      "name": "Willow",
+      "url": "https://dlive.sx/stream/stream-346.php",
+      "type": "iframe"
+    },
+    {
+      "name": "Link 1",
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+      "type": "mpd"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://hugh.cdn.rumble.cloud/live/u7gf26qm/live-hls/d6xz-0z9n/chunklist_i1_DVR.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://embedindia.st/embed/247-willow",
+      "type": "embed"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
+      "type": "mpd"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/otxvvjcsxz/out/v1/b0905b5731f249b1a5020054715fb462/cenc.mpd",
+      "type": "mpd"
+    },
+    {
+      "name": "Server 1",
+      "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/lwb8-uk63/chunklist_i1_DVR.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "English",
+      "url": "https://freecdn.st/hembedplayer/csstream1/1/960/540",
+      "type": "embed"
+    },
+    {
+      "name": "New Zealand vs India",
+      "url": "https://redirects.pages.dev/foot.html?src=https://hlsplayers.pages.dev/iframe?url=https://taifood-blog.asia/embed/247-willow",
+      "type": "embed"
+    },
+    {
+      "name": "New Zealand vs India",
+      "url": "https://yosintv-api.pages.dev/api/ads",
+      "type": "embed"
+    },
+    {
+      "name": "New Zealand vs India",
+      "url": "https://redirects.pages.dev/foot.html?url=https://hlsplayers.pages.dev/iframe?url=https://taifood-blog.asia/embed/247-fox-cricket",
+      "type": "embed"
+    },
+    {
+      "name": "New Zealand vs India",
+      "url": "https://redirects.pages.dev/foot.html?src=https://hlsplayers.pages.dev/iframe?url=https://freecdn.st/hembedplayer/csstream1/1/960/540",
+      "type": "embed"
+    },
+    {
+      "name": "New Zealand vs India",
+      "url": "https://redirects.pages.dev/foot.html?src=https://taifood-blog.asia/embed/247-fox-cricket",
+      "type": "embed"
+    },
+    {
+      "name": "New Zealand vs India",
+      "url": "https://redirects.pages.dev/foot.html?src=https://1freecdn.xyz/hembedplayer/csstream1/1/960/540",
+      "type": "embed"
+    }
   ]
 }
