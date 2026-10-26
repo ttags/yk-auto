@@ -5,3 +5,12 @@ manifestauto.json includes the todays current match window links in encrypted fo
 Single Pillar Content.
 
 Time gating logic applies here too. 
+
+FlOW:
+
+Page opens → if no id → nothing happens, short-circuit everything
+If id exists → check apiauto.json for valid time window
+If no valid window → short-circuit everything (nothing shown)
+If match window exists + id valid → show Watch Live button (no manifestauto.json fetch yet)
+Click Watch Live → fetch match links
+If id exists, window is valid too, but the streams are empty - 
