@@ -994,7 +994,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function renderStreams() {
     if (state.streamsPhase === 'loading') return `<div class="mp-action-wrap"><button class="mp-btn" disabled>Loading streams...</button></div>`;
     if (state.streamsPhase === 'error') return `<div class="mp-state"><h2>Error</h2><p>Could not load streams.</p></div>`;
-    if (state.streamsPhase === 'empty') return `<div class="mp-state"><h2>Streams coming soon</h2><p>The stream for this match is not available yet.</p></div>`;
+    if (state.streamsPhase === 'empty') return `<div class="mp-state"><h2>Streams coming soon</h2><p>The stream for this match is not available yet.</p><div class="mp-action-wrap"><button class="mp-btn mp-btn-ghost" onclick="window._revealLinks()">↻ Retry</button></div></div>`;
     if (state.streamsPhase === 'ready') {
       const cards = state.streams.map(s => `<a class="mp-stream-btn" href="${escapeHtml(s.url)}" target="_blank" rel="noopener nofollow">${escapeHtml(s.name || 'Live Stream')}</a>`).join('');
       return `<h2 class="mp-section-title">Available Streams</h2><div class="mp-streams-list">${cards}</div>`;
